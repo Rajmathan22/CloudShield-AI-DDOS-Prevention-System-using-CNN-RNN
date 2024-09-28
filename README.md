@@ -1,0 +1,2 @@
+# CloudShield-AI-DDOS-Prevention-System-using-CNN-RNN
+CloudShield AI is an AI-driven security framework designed to protect cloud infrastructure from DDoS attacks. It employs machine learning algorithms for real-time threat detection, anomaly detection, and automated mitigation across multiple layers, ensuring minimal service disruption while providing detailed analytics for continuous improvement.
